@@ -1,5 +1,9 @@
 ## Bem-vindo(a) ao perfil do Giovanni Casagrande 😁
 
+ <p> 💻 Desenvolvedor Front-end <br>
+     🌱 Atualmente estou estudando HTML5 e CSS3 <br>
+     🎓 Formado em Ciência da Computação - Brasília-DF </p>
+
  <div>
   <a href="https://github.com/GiCasagrande">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiCasagrande&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
